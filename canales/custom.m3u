@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ACTV.be",ACTV [Geo-blocked]
 https://tvlocales-live.freecaster.com/live/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
+#EXTINF:-1 tvg-id="TomJerryTV.us" tvg-name="Tom and Jerry TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/TomandJerryTitleCardc.jpg/250px-TomandJerryTitleCardc.jpg" group-title="Infantil",Tom and Jerry TV
+http://66.90.111.66:1935/ctv/tom/playlist.m3u8
