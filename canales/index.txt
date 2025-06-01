@@ -301,3 +301,4 @@ za.m3u
 za_freevisiontv.m3u
 zm.m3u
 zw.m3u
+custom.m3u
