@@ -11,3 +11,6 @@ https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="MayAnime",MayAnime (720p)
 https://livepeercdn.studio/hls/6b1evqhhio77w7kr/index.m3u8
+
+#EXTINF:-1 tvg-id="ToonBoom",ToonBoom (720p)
+https://livepeercdn.studio/hls/4f83dql4rut45a37/index.m3u8
