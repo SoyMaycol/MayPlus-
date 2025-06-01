@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ACTV.be",ACTV (720p) [Geo-blocked]
-https://tvlocales-live.freecaster.com/live/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
+#EXTINF:-1 tvg-id="BobEspoja",Bob Esponja [SoyMaycol - Español]
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563livestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
 #EXTINF:-1 tvg-id="SoyMaycol",SoyMaycol [NOT 24/7]
 https://livepeercdn.studio/hls/95e410ptakdz1lm3/index.m3u8
 #EXTINF:-1 tvg-id="Boomerang.us",Boomerang (720p)
