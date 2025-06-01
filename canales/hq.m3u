@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Cartoon_Network_2010_logo.svg" group-title="Infantil",Cartoon Network USA (720p)
+https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Nickelodeon_2023_logo.svg" group-title="Infantil",Nickelodeon USA (720p)
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Disney_Channel_logo.svg" group-title="Infantil",Disney Channel USA (720p)
+https://tv4.live/api/stream/robert-goldsby50-gmail-com-629662-livetv-epg-disney-eastern-us-m3u8
+
+#EXTINF:-1 tvg-id="ToonamiAftermath.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Toonami_logo.png" group-title="Anime",Toonami Aftermath (Anime & Retro)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EnchufeTV" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNwEnchufeTVLogo=s88-c-k-c0x00ffffff-no-rj" group-title="Comedia",Enchufe TV (YouTube)
+https://www.youtube.com/user/enchufetv/live
+
+#EXTINF:-1 tvg-id="PlutoTVComedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Pluto_TV_logo_2020.svg" group-title="Comedia",Pluto TV Comedia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e5d1b0e2f2f7e0007a5e1b0/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Pluto_TV_logo_2020.svg" group-title="Anime",Pluto TV Anime
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e5d1b0e2f2f7e0007a5e1b1/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Pluto_TV_logo_2020.svg" group-title="Infantil",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e5d1b0e2f2f7e0007a5e1b2/master.m3u8
