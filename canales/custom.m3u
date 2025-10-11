@@ -403,11 +403,12 @@ https://stmv1.voxtvhd.com.br/cadenavivo/cadenavivo/playlist.m3u8?checkedby:iptvc
 https://video.streamtvradio.com:8443/uv068/uv068/chunks.m3u8?checkedby:iptvcat.org
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Undefined",Campo 9 Online (720p)
 https://59ce1298bfb98.streamlock.net/campo9tv/campo9tv/playlist.m3u8?checkedby:iptvcat.org
+#EXTM3U
 #EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",Campo Televisión (720p)
-https://video17.virtualtronics.com/streamer/canalcampotv.m3u8?checkedby:iptvcat.org
+https://video17.virtualtronics.com/streamer/canalcampotv.m3u8
 #EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Undefined",Campus TV (Talca) (720p) [Not 24/7]
-https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8?checkedby:iptvcat.org
+https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 10 Córdoba (1080p)
-https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="PE" tvg-logo="" group-title="Undefined" Canal RPP Noticias
+https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
+#EXTINF:0 tvg-country="PE" tvg-logo="" group-title="Undefined",Canal RPP Noticias
 https://mdstrm.com/live-stream-playlist/68b9f14bd7cd40aa500402b1.m3u8
