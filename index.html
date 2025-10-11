@@ -519,7 +519,7 @@
                 
                 currentHls.on(Hls.Events.ERROR, (event, data) => {
                     if (data.fatal) {
-                        loading.innerHTML = '<div class="spinner"></div><div>Error de carga</div>';
+                        loading.innerHTML = '<div class="spinner"></div><div>¡Ups! Ha salido un error inesperado.</div>';
                     }
                 });
             } else if (videoElement.canPlayType('application/vnd.apple.mpegurl')) {
