@@ -442,7 +442,7 @@
                             const content = await response.text();
                             parseM3U(content, file);
                             processedFiles++;
-                            status.textContent = `⏳ Procesando... ¡Ya vamos en el ${processedFiles}%! ¡Apunta a ese 300%! (⁠・⁠∀⁠・⁠)`;
+                            status.textContent = `⏳ Procesando... ${processedFiles}/310`;
                         }
                     } catch (error) {
                         console.log(`No se pudo cargar: ${file}`);
@@ -450,7 +450,7 @@
                 }
 
                 if (channels.length > 0) {
-                    status.textContent = `🎉 ¡${channels.length} canalcitos listos! Hora de disfrutar~ (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤`;
+                    status.textContent = `🎉 ¡${channels.length} canales listos!`;
                     filteredChannels = [...channels];
                     renderChannels();
                 } else {
