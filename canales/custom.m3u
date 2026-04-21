@@ -69,8 +69,8 @@ https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8?checkedby:iptvcat.org
 http://myott.top/stream/DT6QU63K5VX/209.m3u8?checkedby:iptvcat.org
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",27 TwentySeven [Geo-blocked]
 https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="CARTOON NETWORK",2х2
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CARTOON_NETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCARTOON_NETWORK_stream_mu&_cdn_session=3534427797&_cdn_token=20b4198f63bec4def41ca664d9ebe78fbf4b5012
+#EXTINF:-1 tvg-country="" tvg-logo="" group-title="CARTOON NETWORK",2x2
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/CARTOON_NETWORK/40-hls/live-media.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="SPAIN",3/24
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8?checkedby:iptvcat.org
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",31 Канал (Казахстан)
